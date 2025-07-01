@@ -9,13 +9,12 @@ export default function Home() {
           <p>Hi! I&#39;m Ruchita</p>
           <p>
             I love to build stuff and fall into rabbit holes. I mostly build
-            things for the web and somehow ends up making games. I also design
-            stuff.
+            things for the web and I also love to design stuff.
           </p>
           <p>
             Besides programming, I love watching anime, reading manga,
             photography, writing haikus, star gazing, playing sky:cotl, art and
-            just understanding things on a deeper level.
+            simply understanding things on a deeper level.
           </p>
         </div>
         <div className="mx-auto md:mx-0 shrink-0 w-40 h-52 p-2 bg-white">
@@ -25,12 +24,12 @@ export default function Home() {
       </div>
       <div className="w-full flex justify-center mt-20">
         <Image
-          src={`/coaly.gif`}
+          src={`/new.gif`}
           alt="Photo"
           width={60}
           height={60}
           className="cursor-pointer"
-          onClick={() => (document.body.style.backgroundColor = '#000000')}
+          onClick={() => (document.body.style.backgroundColor = '#0a0a0a')}
         />
       </div>
     </div>
