@@ -5,7 +5,9 @@ export default async function Blogs() {
     <>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
         <div className=" w-full border border-white flex flex-wrap md:flex-nowrap p-2 gap-3">
-          <Link href="https://ruchitagosavi.hashnode.dev/crafting-3d-experiences-with-react-three-fiber-core-concepts-and-scene-creation">
+          <Link
+            href="https://ruchitagosavi.hashnode.dev/crafting-3d-experiences-with-react-three-fiber-core-concepts-and-scene-creation"
+            target="_blank">
             <h2 className="flex-1 tracking-wide">
               React Three Fiber: Core Concepts and Scene Creation
             </h2>
