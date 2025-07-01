@@ -24,7 +24,7 @@ export default function Home() {
       </div>
       <div className="w-full flex justify-center mt-20">
         <Image
-          src={`/new.gif`}
+          src={`/coaly.gif`}
           alt="Photo"
           width={60}
           height={60}
